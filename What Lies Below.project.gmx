@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\TestSprite</sprite>
     <sprite>sprites\Hurtbox</sprite>
+    <sprite>sprites\blank</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -15,6 +16,7 @@
     <object>objects\player</object>
     <object>objects\Bullet</object>
     <object>objects\enemy</object>
+    <object>objects\wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\TestArea</room>
